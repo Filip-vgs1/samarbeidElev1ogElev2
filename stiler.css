@@ -1,0 +1,22 @@
+body{
+    background-color: darkgray;
+}
+
+h1{
+    font-size: large;
+    font-style: italic;
+    color: black;
+    text-align:center;
+    width: 24px;
+}
+
+p{
+    background-color: gold;
+    font-style: italic;
+    color: black;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    outline: black;
+    outline-style: dotted;
+}
