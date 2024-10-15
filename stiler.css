@@ -20,3 +20,11 @@ p{
     outline: black;
     outline-style: dotted;
 }
+
+.flyt{
+    float: left;
+}
+
+section{
+    width: 23%;
+}
