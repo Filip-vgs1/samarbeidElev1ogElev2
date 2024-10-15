@@ -1,0 +1,12 @@
+body {
+    background-color: #212121;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
+}
+h1 {
+color: white;
+margin: 40px;
+}
+p {
+    padding: 1px;
+    margin: 40px;
+}
